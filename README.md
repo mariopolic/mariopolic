@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mario Polic</h1>
-<h3 align="center">An awesome backend wizard from Bosina</h3>
+<h3 align="center">An awesome backend wizard from Bosnia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariopolicc&label=Profile%20views&color=0e75b6&style=flat" alt="mariopolicc" /> </p>
 
